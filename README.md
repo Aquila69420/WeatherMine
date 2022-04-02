@@ -5,7 +5,9 @@ This project features a weather app that functions through an API response from 
 
 ## Installation
 After installing Python 3.x.x or later, and downloading the WeatherMine folder and requirements.txt, in your terminal, execute:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## License
 This is an open-source repository licensed under the [GNU Affero General Public License v3.0](LICENSE).
