@@ -34,3 +34,4 @@ Currently we are limited to only 25 API calls per day, so the app may not work o
 
 ## Credits
 This project was built in collaboration with [Ritvik Prakash](https://github.com/ritz10001).
+The windows version is available [here](https://github.com/ritz10001/WeatherMine)
